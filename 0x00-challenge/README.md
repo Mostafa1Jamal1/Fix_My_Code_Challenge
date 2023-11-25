@@ -9,3 +9,5 @@ For this project `0x00. Fix my code`
 
 `2-sort.rb` -> the error: Something is going wrong in sorting
 
+
+`3-user.py` -> the error: My tests should not print any error
